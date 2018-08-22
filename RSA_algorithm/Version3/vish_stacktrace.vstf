@@ -1,8 +1,0 @@
-# Current time Wed Aug 22 16:35:09 2018
-# Program = vish
-# Id = "10.4e"
-# Version = "2016.04"
-# Date = "Apr  9 2016"
-# Platform = win32
-
-Exception c0000005 has occurred at address 00599ae5. Traceback:
